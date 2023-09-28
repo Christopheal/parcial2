@@ -1,0 +1,6 @@
+ interface Boton {
+
+        void renderizar();
+    }
+
+

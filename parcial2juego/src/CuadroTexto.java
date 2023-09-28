@@ -1,0 +1,4 @@
+ interface CuadroTexto {
+    void renderizar();
+
+}
